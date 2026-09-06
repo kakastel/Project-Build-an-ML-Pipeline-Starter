@@ -1,3 +1,11 @@
+## Project Links
+
+- **W&B project:** https://wandb.ai/kkastel-wgu/nyc_airbnb
+- **GitHub repo:** https://github.com/kakastel/Project-Build-an-ML-Pipeline-Starter
+- Releases: 1.0.0 (first initial release), 1.0.1 (makes sure NYC geographic boundary is respected by new data)
+
+Best model: random forest, `max_depth=15`, `n_estimators=100` The test was MAE $33.85, R squared 0.564
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
